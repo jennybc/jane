@@ -1,0 +1,13 @@
+Package: jane
+Type: Package
+Title: Just testing something that baffles me
+Version: 0.0.0.9000
+Authors@R: person("Jennifer", "Bryan", role=c("aut", "cre"),
+  email = "jenny@stat.ubc.ca")
+Description: More about what it does (maybe more than one line). Even more
+  about what it does (so I don't have a Malformed Description field).
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports: readr
+VignetteBuilder: knitr
+Suggests: knitr
