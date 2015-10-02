@@ -14,3 +14,5 @@ Suggests: knitr,
     testthat
 URL: https://github.com/jennybc/jane
 BugReports: https://github.com/jennybc/jane/issues
+Remotes:
+  hadley/readr
