@@ -8,7 +8,7 @@ Description: More about what it does (maybe more than one line). Even more
   about what it does (so I don't have a Malformed Description field).
 License: MIT + file LICENSE
 LazyData: TRUE
-Imports: readr
+Imports: readr (> 0.1)
 VignetteBuilder: knitr
 Suggests: knitr,
     testthat
