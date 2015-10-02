@@ -11,3 +11,5 @@ LazyData: TRUE
 Imports: readr
 VignetteBuilder: knitr
 Suggests: knitr
+URL: https://github.com/jennybc/jane
+BugReports: https://github.com/jennybc/jane/issues
