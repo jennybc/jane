@@ -1,6 +1,6 @@
 Package: jane
 Type: Package
-Title: Just testing something that baffles me
+Title: Just Testing Something That Baffles Me
 Version: 0.0.0.9000
 Authors@R: person("Jennifer", "Bryan", role=c("aut", "cre"),
   email = "jenny@stat.ubc.ca")
