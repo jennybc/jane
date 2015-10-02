@@ -10,6 +10,7 @@ License: MIT + file LICENSE
 LazyData: TRUE
 Imports: readr
 VignetteBuilder: knitr
-Suggests: knitr
+Suggests: knitr,
+    testthat
 URL: https://github.com/jennybc/jane
 BugReports: https://github.com/jennybc/jane/issues
